@@ -2,8 +2,6 @@
 """
 Created on Tue Mar 24 16:46:11 2020
 For CS526 Chicago Crime Data Visualisation
-
-@author: srikaavya
 """
 import pandas as pd
 import numpy as np
